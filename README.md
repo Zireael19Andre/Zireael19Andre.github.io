@@ -1,2 +1,2 @@
 # Zireael19Andre.github.io
-A practice website for Coursera web-design course.
+A practice home page for Coursera web-design course.
